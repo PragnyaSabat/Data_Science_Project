@@ -3,7 +3,7 @@
 
 This project focuses on analyzing 300 Spotify social media posts to evaluate engagement performance, campaign effectiveness, and content strategy using Microsoft Excel. The objective is to transform raw engagement data into a structured analytical dashboard that supports data-driven marketing decisions.
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 Measure overall and platform-wise engagement performance
 
@@ -13,7 +13,7 @@ Identify high-performing strategies using KPI-driven analysis
 
 Build an interactive Excel dashboard for business insights
 
-🛠 Tools & Techniques Used
+##🛠 Tools & Techniques Used
 
 Microsoft Excel
 
@@ -29,7 +29,7 @@ Data Cleaning & Validation
 
 Interactive Dashboard Design
 
-📈 Key KPIs Calculated
+##📈 Key KPIs Calculated
 
 Total Engagement (Likes + Comments + Shares)
 
@@ -43,7 +43,7 @@ Campaign Effectiveness
 
 Post Volume Analysis
 
-📊 Key Insights
+##📊 Key Insights
 
 Analyzed 300 posts generating 1M+ total engagements.
 
@@ -53,7 +53,7 @@ Story-based content and specific campaigns showed higher interaction efficiency.
 
 Data-driven comparison enabled clear prioritization of high-impact content strategies.
 
-📂 Deliverables
+##📂 Deliverables
 
 Cleaned and structured dataset
 
@@ -63,7 +63,7 @@ Pivot-based analytical sheets
 
 Interactive Excel dashboard
 
-🚀 Business Impact
+##🚀 Business Impact
 
 This project demonstrates how Excel can be used as a powerful analytics tool to:
 
